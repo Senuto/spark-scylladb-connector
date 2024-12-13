@@ -5,6 +5,7 @@ object Versions {
   val CommonsLang3    = "3.10"
   val Paranamer       = "2.8"
 
+  val ScyllaDBJavaDriver = "4.18.1.0"
   val CassandraJavaDriver = "4.18.1"
   val EsriGeometry        = "2.2.4"
 
